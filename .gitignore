@@ -1,0 +1,7 @@
+# Ignorar o ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Ignorar os dados locais (Data Lake local)
+data/
